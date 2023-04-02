@@ -1,0 +1,6 @@
+Set A
+1) What are the fundamentals activities of software engineering?
+2) Explain prototyping model. Why is it considered better than waterfall model?
+Set B
+1) Explain the process and need of software validation.
+2) What do you mean by coping with change? How does Agile method scale?
